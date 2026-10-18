@@ -1,0 +1,3 @@
+94e3dba222df66d72bb281e875622dc41d7f2eb0ce061acbec26f1b521d90566  afterimage-combat-v0.3.zip
+591d1c5d060b9ae24986e3c307fdbd24e958d75102542a4cef52a3841ad546c7  afterimage-combat-v0.3.html
+a3166e618d3311fbfef99f0aad4a35bbb241a42d762e751cfb67ae921863ddf6  START-HERE-v0.3.txt
